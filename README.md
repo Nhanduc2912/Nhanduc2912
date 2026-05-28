@@ -14,7 +14,7 @@
 
 ## 🗄️ Database
 
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=microsoftsqlserver&logoColor=white) ![My SQL](https://img.shields.io/badge/My%20SQL-green?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=microsoftsqlserver&logoColor=white) ![My SQL](https://img.shields.io/badge/My%20SQL-blue?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
 ## 🧑‍💻 Other Programing Languages
 
