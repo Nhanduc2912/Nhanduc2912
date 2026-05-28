@@ -22,4 +22,4 @@
 
 ## 🛠️ Tools & Platforms
 
-<img src="https://skillicons.dev/icons?i=vscode,visualstudio,git,github,postman,ubuntu,linux,kali,powershell,windows,npm,obsidian,docker" />
+<img src="https://skillicons.dev/icons?i=vscode,visualstudio,vim,git,github,postman,ubuntu,linux,kali,arch,powershell,windows,npm,obsidian,docker,vercel,vite,nextjs,bots,replit" />
