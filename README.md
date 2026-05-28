@@ -10,7 +10,7 @@
 
 ## ⚙️ Backend
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs" />
+<img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,php" />
 
 ## 🗄️ Database
 
